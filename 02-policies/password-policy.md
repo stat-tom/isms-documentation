@@ -40,6 +40,7 @@ The use of passphrases is recommended.
 ### 3.3 Password Validity Period
 
 - passwords should be changed every 90 days
+- password validity period may be extended if MFA is enabled
 - the system should prevent reuse of the last 5 passwords
 
 ### 3.4 Password Storage
